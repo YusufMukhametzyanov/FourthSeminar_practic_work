@@ -20,5 +20,5 @@ Console.WriteLine("Итоговый массив");
 
 for (int i = 0; i < numArray.Length; i++)
 {
-    Console.Write($"[{numArray[i]}] ");
+    Console.Write($"{numArray[i]} ");
 }
